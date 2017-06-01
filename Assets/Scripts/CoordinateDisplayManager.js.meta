@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dbc78febeb5f66f418c0e5fcd50e30e9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blackPiece: {fileID: 400000, guid: b114554d197241d4a8dd82f05ac4cb54, type: 2}
+  - whitePiece: {fileID: 400000, guid: f1456eea9a83c504b9ad7adaeecc610d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
