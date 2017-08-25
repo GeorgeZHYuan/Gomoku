@@ -1,2 +1,4 @@
 # Gomoku
-Grade 12 project for a Gomoku Bot
+Grade 11 project for a Gomoku Bot
+
+built in unity 3D
